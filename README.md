@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananya
 - 👀 I’m interested in Machine Learning , web development
-- 💞️ I’m looking to collaborate on some projets
+- 💞️ I’m looking to collaborate on some projects
 
 <!---
 Ananyaa03/Ananyaa03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
