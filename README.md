@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Development , Python , Machine learning**
+- 💬 Ask me about **Development , Java, Python , Machine Learning, AWS**
 
 - 📫 How to reach me **gargananya2001@gmail.com**
 
