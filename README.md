@@ -24,5 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyaa03&show_icons=true&locale=en" alt="ananyaa03" /></p>
 
-![image](https://github.com/Ananyaa03/Ananyaa03/assets/62787867/5852c3e4-bf98-46d5-9dd2-d436ecf72b5d)
+[![An image of @ananya29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananya29)](https://holopin.io/@ananya29)
+
 
