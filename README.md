@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gargananya2001@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ananya-garg29/](https://www.linkedin.com/in/ananya-garg29/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ananyagarg29/](https://www.linkedin.com/in/ananyagarg29/)
 
 - ⚡ Fun fact **I think I am funny**
 
